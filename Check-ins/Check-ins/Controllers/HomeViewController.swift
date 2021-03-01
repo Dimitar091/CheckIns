@@ -124,8 +124,8 @@ class HomeViewController: UIViewController, CLLocationManagerDelegate, LocationD
                     self.noCheckIns.isHidden = false //true
                 } else {
                     self.noCheckIns.isHidden = true //false
+                    self.sortAndReload()
                 }
-                self.sortAndReload()
             }
         }
     }

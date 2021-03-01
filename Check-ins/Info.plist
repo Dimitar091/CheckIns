@@ -53,15 +53,15 @@
 	<true/>
 	<key>NSCameraUsageDescription</key>
 	<string>We will use your camera to set your profile picture.</string>
+	<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
+	<string>Do you allow this app to know your current location?</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>CheckIn needs user location for displaying check-ins</string>
 	<key>NSPhotoLibraryUsageDescription</key>
 	<string>We will use your camera to set your profile picture.</string>
 	<key>Privacy - Location Always Usage Description
 Will you allow this app to always know your location?</key>
 	<string>Will you allow this app to always know your location?</string>
-	<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
-	<string>Do you allow this app to know your current location?</string>
-	<key>NSLocationWhenInUseUsageDescription</key>
-	<string>CheckIn needs user location for displaying check-ins</string>
 	<key>UIApplicationSceneManifest</key>
 	<dict>
 		<key>UIApplicationSupportsMultipleScenes</key>
